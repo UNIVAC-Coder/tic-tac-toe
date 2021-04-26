@@ -12,4 +12,4 @@ I converted the square tic-tac-toe into a linear string thus:
      X | X |                                                                                         *****
  
  
- And simply spent the time creating all posible board configurations and its next move.  The executable BASIC code was around 15 lines of code plus many more lines of DATA statements.  We can recreate this algorithm using Python and some GUI storing the moves in a text file.
+ And simply spent the time creating all possible board configurations and its next move.  The executable BASIC code was around 15 lines of code plus many more lines of DATA statements.  We can recreate this algorithm using Python and some GUI storing the moves in a text file and be done in a day.
